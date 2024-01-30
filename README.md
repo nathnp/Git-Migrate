@@ -10,3 +10,4 @@ You can then take the resulting bash script to another computer, and clone down 
 
 >![NOTE]
 > This script only really works if all the folders are git repos, I am planning on fixing that
+
